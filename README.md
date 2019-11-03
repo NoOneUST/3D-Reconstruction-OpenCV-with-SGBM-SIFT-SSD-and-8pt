@@ -1,4 +1,4 @@
-# 3D Reconstruction with SGBM, SIFT, SSD and 8pt
+# 3D Reconstruction based on OpenCV with SIFT, 8pt, SGBM and SSD
 
 ## Overview
 We use paired images to do 3D reconstruction with SGBM, SIFT, SSD and 8pt algorithm.
